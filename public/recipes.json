@@ -1,0 +1,100 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_image": "https://i.ibb.co.com/yB4Qt83y/spaghetti-Carbonara.png",
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "A classic Italian pasta dish with creamy egg sauce and pancetta.",
+        "ingredients": [
+            "Spaghetti",
+            "Eggs",
+            "Parmesan cheese",
+            "Pancetta",
+            "Black pepper",
+            "Salt"
+        ],
+        "preparing_time": "25 minutes",
+        "calories": 550
+    },
+    {
+        "recipe_id": 2,
+        "recipe_image": "https://i.ibb.co.com/p6tbPfnh/Chicken-Caesar-Salad.png",
+        "recipe_name": "Chicken Caesar Salad",
+        "short_description": "Crisp romaine lettuce with grilled chicken, parmesan, and Caesar dressing.",
+        "ingredients": [
+            "Romaine lettuce",
+            "Grilled chicken",
+            "Parmesan cheese",
+            "Caesar dressing",
+            "Croutons",
+            "Black pepper"
+        ],
+        "preparing_time": "15 minutes",
+        "calories": 400
+    },
+    {
+        "recipe_id": 3,
+        "recipe_image": "https://i.ibb.co.com/dsMp62sJ/Beef-Tacos.png",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Spiced ground beef in crispy taco shells with fresh toppings.",
+        "ingredients": [
+            "Ground beef",
+            "Taco shells",
+            "Lettuce",
+            "Tomatoes",
+            "Cheddar cheese",
+            "Sour cream",
+            "Taco seasoning"
+        ],
+        "preparing_time": "30 minutes",
+        "calories": 480
+    },
+    {
+        "recipe_id": 4,
+        "recipe_image": "https://i.ibb.co.com/kgfPX9W2/Vegetable-Stir-Fry.png",
+        "recipe_name": "Vegetable Stir-Fry",
+        "short_description": "A colorful mix of fresh vegetables stir-fried in a savory sauce.",
+        "ingredients": [
+            "Bell peppers",
+            "Carrots",
+            "Broccoli",
+            "Soy sauce",
+            "Garlic",
+            "Ginger",
+            "Sesame oil"
+        ],
+        "preparing_time": "20 minutes",
+        "calories": 320
+    },
+    {
+        "recipe_id": 5,
+        "recipe_image": "https://i.ibb.co.com/v4bpK069/Mango-Smoothie.png",
+        "recipe_name": "Mango Smoothie",
+        "short_description": "A refreshing and creamy mango smoothie with a tropical taste.",
+        "ingredients": [
+            "Mango",
+            "Banana",
+            "Yogurt",
+            "Honey",
+            "Milk",
+            "Ice cubes"
+        ],
+        "preparing_time": "10 minutes",
+        "calories": 250
+    },
+    {
+        "recipe_id": 6,
+        "recipe_image": "https://i.ibb.co.com/fdKzQd2t/Chocolate-Brownies.png",
+        "recipe_name": "Chocolate Brownies",
+        "short_description": "Rich and fudgy chocolate brownies with a gooey center.",
+        "ingredients": [
+            "Butter",
+            "Sugar",
+            "Cocoa powder",
+            "Eggs",
+            "Flour",
+            "Vanilla extract"
+        ],
+        "preparing_time": "35 minutes",
+        "calories": 450
+    }
+]
