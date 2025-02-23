@@ -1,12 +1,14 @@
-import './App.css'
+import "./App.css";
+import Navbar from "./components/Navbar/Navbar";
 
 function App() {
-
   return (
     <>
-      <h1>Bangladesh</h1>
+      <div className="lexend container m-auto">
+        <Navbar></Navbar>
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
