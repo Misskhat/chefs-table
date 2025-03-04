@@ -3,7 +3,7 @@ import profileIcon from "../../assets/images/profitIcon.png"
 import searchIcon from "../../assets/images/searchIcon.svg"
 const Navbar = () => {
   return (
-    <div className="flex justify-between items-center">
+    <div className="flex justify-between items-center mb-20 mt-2.5">
       <div>
         <button title="Recipe Calories" className="text-3xl font-bold">Recipe Calories</button>
       </div>
@@ -15,9 +15,9 @@ const Navbar = () => {
       </div>
       <div>
         <div className="flex items-center justify-center space-x-3">
-            <div className="flex space-x-2.5 rounded-3xl">
+            <div className="flex space-x-2.5 rounded-3xl bg-gray-300 p-2 items-center">
                 <img title="Search Icon" src={searchIcon} alt="Search Icon" />
-                <input type="search" placeholder="Search" className="border-none px-3 rounded-3xl bg-white" />
+                <input type="search" placeholder="Search" className="border-none px-3 rounded-3xl bg-gray-300" />
             </div>
             <div><img className="bg-[#0BE58A;] rounded-4xl p-1" title="Profile Icon" src={profileIcon} alt="profile icon"/></div>
         </div>
